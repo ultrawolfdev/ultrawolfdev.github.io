@@ -24,3 +24,24 @@ Certamente, il progetto è completamente open-source e si puo scaricare, modific
   - Linguaggi supportati: Python, HTML, CSS, JS, Shell, C++, C+, C, C#, Java...
   - [Download](https://github.com/adobe/brackets/releases/tag/release-1.14.2) 
 
+### Link macOS 12 Beta
+
+- Versione 12.0 Beta
+  - Sistema macOS
+  - Versione minima hardware: 
+ iMac fine 2015 e successivi
+ Mac Pro fine 2013 e successivi
+ iMac Pro 2017 e successivi
+ Mac mini fine 2014 e successivi
+ MacBook Air inizio 2015 e succesivo MacBook inizio 2016 e successivi
+ MacBook Pro inizio 2015 e successivi
+  - Grandezza: 11,74GB
+  - [Download](https://mrmacintosh.com/macos-12-monterey-full-installer-database-download-directly-from-apple/) 
+
+### Scarica AdobeZii
+
+- Versione /
+  - Sistema /
+  - Versione minima software: /
+  - Programmi pachabili: Tutta la suite Adobe (Tranne Lightroom, dovrete usare Lightroom Classic)
+  - [Download](https://adobezii.com) 
